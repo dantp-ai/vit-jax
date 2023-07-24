@@ -1,1 +1,1 @@
-# vit-jax
+# ViT (Vision Transformer) in Jax & Flax
